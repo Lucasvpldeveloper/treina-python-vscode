@@ -1,3 +1,5 @@
+#!/usr / bin /python  
+# -* - coding : utf -8 -* -
 print('Transformando graus Celsius em Fahrenheit')
 celsius = float(input('Quantos graus celsius você gostaria de converter para fahrenheit? '))
 fah = (celsius * 9) / 5 + 32 

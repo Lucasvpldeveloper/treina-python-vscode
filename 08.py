@@ -1,3 +1,5 @@
+#!/usr / bin /python  
+# -* - coding : utf -8 -* -
 valor = float(input("Quanto você ganha por hora?"))
 hora = float(input("Quantas horas você trabalhar por mês?"))
 total = valor * hora 

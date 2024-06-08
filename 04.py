@@ -1,3 +1,5 @@
+#!/usr / bin /python  
+# -* - coding : utf -8 -* -
 nota1 = int(input('Qual foi a sua primeira nota do bimestre?'))
 nota2 = int(input('Qual foi a sua segunda nota do bimestre?'))
 nota3 = int(input('Qual foi a sua terceira nota do bimestre?'))
